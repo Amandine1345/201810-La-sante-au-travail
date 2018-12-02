@@ -1,5 +1,38 @@
-# LaSanteAuTravail
+# La sante au travail
 
-projet1 à la Wild Code School d'Orléans en utilisant HTML5 et CSS3 et égalemment le framework Bootstrap4 il sagit d'un site internet commandé par une association visant à promouvoir la santé au travail, son importance et quelques gestes/activités simple à mettre en place.
+Réalisation d'un site mettant en avant **la santé au travail**
 
-Participants: Vivien Piveteau (alias Vivpiv), Amandine Turpin (alias Amandine1345), Patricia Batjorm (alias PBAT75) et Thomas Coumes (alias ThomasCms)
+* Explications de pourquoi la santé au travail est-elle importante
+    * Etre en forme
+    * Eviter les maladies liées à la sédentarité
+    * Limiter les arrêts de travail
+* Présenter les exercices que l'on peut réaliser sur son lieu de travail
+* Comment aménager son poste de travail
+* Témoignages
+
+## Objectif pédagogique
+
+Projet fictif, réalisé pour la Wild Code School d'Orléans, afin
+de mettre en pratique les premières semaines d'apprentissage.
+
+* Durée du projet : 3 semaines
+
+### Langages
+* HTML 5
+* CSS 3
+* Bootstrap 4
+
+### Versionning
+* Git
+
+### Réalisé avec
+* Sublime Text
+ 
+#### Contributeurs
+
+* Thomas Coumes - [ThomasCms](https://github.com/ThomasCms)
+* Patricia Batjorm [PBAT75](https://github.com/PBAT75)
+* Vivien Piveteau [Vivpiv](https://github.com/vivpiv)
+* Amandine Turpin [Amandine1345](https://github.com/Amandine1345)
+
+
