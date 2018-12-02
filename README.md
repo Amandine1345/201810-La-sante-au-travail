@@ -17,6 +17,8 @@ de mettre en pratique les premières semaines d'apprentissage.
 
 * Durée du projet : 3 semaines
 
+![La Santé au Travail](https://drive.google.com/uc?export=view&id=1QWkvUJYBPHHmaAyg9fY7NEjdVjuEHY6X)
+
 ### Langages
 * HTML 5
 * CSS 3
@@ -31,8 +33,8 @@ de mettre en pratique les premières semaines d'apprentissage.
 #### Contributeurs
 
 * Thomas Coumes - [ThomasCms](https://github.com/ThomasCms)
-* Patricia Batjorm [PBAT75](https://github.com/PBAT75)
-* Vivien Piveteau [Vivpiv](https://github.com/vivpiv)
-* Amandine Turpin [Amandine1345](https://github.com/Amandine1345)
+* Patricia Batjorm - [PBAT75](https://github.com/PBAT75)
+* Vivien Piveteau - [Vivpiv](https://github.com/vivpiv)
+* Amandine Turpin - [Amandine1345](https://github.com/Amandine1345)
 
 

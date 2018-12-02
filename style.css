@@ -1,7 +1,7 @@
 /*Polices*/
 @font-face {
 	font-family: "The Bold Font";
-	src: url("font/theboldfont(1).ttf") format("truetype");
+	src: url("font/theboldfont.ttf") format("truetype");
 }
 
 body{font-family:Arial,Helvetica,sans-serif;}
