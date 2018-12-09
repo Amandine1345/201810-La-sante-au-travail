@@ -32,7 +32,7 @@ de mettre en pratique les premières semaines d'apprentissage.
  
 ### Contributeurs
 
-* Thomas Coumes - [ThomasCms](https://github.com/ThomasCms)
 * Patricia Batjorm - [PBAT75](https://github.com/PBAT75)
+* Thomas Coumes - [ThomasCms](https://github.com/ThomasCms)
 * Vivien Piveteau - [Vivpiv](https://github.com/vivpiv)
 * Amandine Turpin - [Amandine1345](https://github.com/Amandine1345)
