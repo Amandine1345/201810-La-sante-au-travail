@@ -1,38 +1,31 @@
-# La sante au travail
+# Occupational health website
 
-Réalisation d'un site mettant en avant **la santé au travail**
+Website for highlight occupational health.
+* To suggest doing exercises on your workplace, for improve your physical condition
+* To suggest doing convert your office to ergonomic office 
+ 
 
-* Explications de pourquoi la santé au travail est-elle importante
-    * Etre en forme
-    * Eviter les maladies liées à la sédentarité
-    * Limiter les arrêts de travail
-* Présenter les exercices que l'on peut réaliser sur son lieu de travail
-* Comment aménager son poste de travail
-* Témoignages
+![Occupational health](201810-la-sante-au-travail.gif)
 
-## Objectif pédagogique
+### Installing
 
-Projet fictif, réalisé pour la Wild Code School d'Orléans, afin
-de mettre en pratique les premières semaines d'apprentissage.
+* Clone the project `git clone https://github.com/Amandine1345/201810-la-sante-au-travail-website.git`
 
-* Durée du projet : 3 semaines
+* Open `index.html` in your favorite browser
 
-![La Santé au Travail](https://drive.google.com/uc?export=view&id=11Xhv5U59-TBLdSEjeBzc0oSq8YaH8LoO)
-
-### Langages
+### Build With
 * HTML 5
 * CSS 3
 * Bootstrap 4
 
 ### Versioning
 * Git
-
-### Outils
-* Sublime Text
  
-### Contributeurs
+### Contributors
 
 * Patricia Batjorm - [PBAT75](https://github.com/PBAT75)
 * Thomas Coumes - [ThomasCms](https://github.com/ThomasCms)
 * Vivien Piveteau - [Vivpiv](https://github.com/vivpiv)
 * Amandine Turpin - [Amandine1345](https://github.com/Amandine1345)
+
+###### Duration of the project : 3 weeks
